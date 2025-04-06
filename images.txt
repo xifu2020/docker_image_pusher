@@ -1,1 +1,3 @@
 heygem-gen-video:latest
+heygem-asr
+heygem-tts
